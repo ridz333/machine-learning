@@ -1,2 +1,2 @@
-Мои работы в рамках обучения machine_learning# machine-learning
+Мои работы в рамках обучения
 # machine-learning
